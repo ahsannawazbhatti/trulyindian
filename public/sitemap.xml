@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+    <url>
+        <loc>https://trulyindian.se/take-away-meny</loc>
+    </url>
+
+    <url>
+        <loc>https://trulyindian.se/hem</loc>
+    </url>
+
+    <url>
+        <loc>https://trulyindian.se/kontakta-oss</loc>
+    </url>
+
+    <url>
+        <loc>https://trulyindian.se/lunch-meny</loc>
+    </url>
+
+    <url>
+        <loc>https://trulyindian.se/</loc>
+    </url>
+
+    <url>
+        <loc>https://trulyindian.se/om-oss</loc>
+    </url>
+</urlset>
